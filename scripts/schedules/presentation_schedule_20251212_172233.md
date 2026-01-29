@@ -82,11 +82,7 @@
 * **Status:** In Progress
 * **Description:** Aplikacija za brojanje kalorija pomoću slike ili ručnog unosa hrane
 
-### 7. TuneBuddy
-* **Team:** KMB - Karmen Grubić & Matea Begonja & Barbara Jezidžić
-* **Folder:** `KMB-kgrubic-mbegonja-bjezidzic/`
-* **Status:** In Progress
-* **Description:** Connect through music
+
 ### 8. MateSfera
 * **Team:** 404 - Andrea Težak & Tamara Višić
 * **Folder:** `404-atezak-tvisic/`
@@ -144,7 +140,13 @@
 * **Team:** Carla Bajić - Carla Bajić
 * **Folder:** `BookSeeker-carla3791/`
 * **Status:** In Progress
-* **Description:** BookSeeker is a personal digital library and an intelligent book search engine. Users can search for books based on remembering the plot, characters, or details, while the app organizes and keeps track of all selected books in a private library.  
+* **Description:** BookSeeker is a personal digital library and an intelligent book search engine. Users can search for books based on remembering the plot, characters, or details, while the app organizes and keeps track of all selected books in a private library.
+
+### 8. TuneBuddy
+* **Team:** KMB - Karmen Grubić & Matea Begonja & Barbara Jezidžić
+* **Folder:** `KMB-kgrubic-mbegonja-bjezidzic/`
+* **Status:** In Progress
+* **Description:** Connect through music     
 
 ---
 
